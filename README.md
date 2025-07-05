@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diya Elsa George</h1>
-<h3 align="center">CS student who loves building cool stuff 🛠️</h3>
+<h3 align="center">Developer. Dreamer. Doer. 🛠️</h3>
 
 ## 💫 About Me
 - 🎓 Final-year CSE student at MEC, Kochi  
